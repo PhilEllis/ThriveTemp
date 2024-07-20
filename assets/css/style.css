@@ -282,12 +282,13 @@ h1 {
 /* Sign Up Form */
 .thrive img {
     max-height: 200px;
+    margin-top: 50px;
 }
 
 .ms-form {
     max-width: 800px;
     margin-top: 100px;
-    margin-bottom: 50px;
+    margin-bottom: 100px;
     background-color: #F7F5F0;
     position: relative;
     padding: 50px;
@@ -348,7 +349,7 @@ footer {
 }
 
 .copyright {
-    font-weight: 500;
+    font-weight: 300;
     font-family: 'Montserrat', sans-serif;
     color: #fafafa;
     padding: 40px 0px 0px 0px;
